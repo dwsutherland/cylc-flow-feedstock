@@ -93,7 +93,7 @@ outputs:
 
 about:
   home: https://cylc.github.io/
-  license: GPL-3.0
+  license: GPL-3.0-or-later
   license_family: GPL
   license_file: LICENSE.txt
   summary: 'A workflow engine for cycling systems'
